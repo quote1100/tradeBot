@@ -1,0 +1,101 @@
+------------------------------------
+------------EXPERIMENT 1------------
+------------------------------------
+
+------------------------------------
+Statistics for Benchmark
+------------------------------------
+***In Sample Data***
+Cumulative return: -0.089363
+Average Daily return: -0.000192
+Standard Deviation: 0.019011
+Sharpe Ratio: -0.160109
+
+***Out of Sample Data***
+Cumulative return: -0.002505
+Average Daily return: 0.000019
+Standard Deviation: 0.007601
+Sharpe Ratio: 0.039253
+
+------------------------------------
+Statistics for Manual Strategy
+------------------------------------
+***In Sample Data***
+Cumulative return: 0.254226
+Average Daily return: 0.001012
+Standard Deviation: 0.015043
+Sharpe Ratio: 1.067559
+
+***Out of Sample Data***
+Cumulative return: 0.154943
+Average Daily return: 0.000593
+Standard Deviation: 0.006192
+Sharpe Ratio: 1.520764
+
+------------------------------------
+Statistics for Strategy Learner
+------------------------------------
+***In Sample Data***
+Cumulative return: 1.837281
+Average Daily return: 0.004179
+Standard Deviation: 0.008007
+Sharpe Ratio: 8.284610
+
+***Out of Sample Data***
+Cumulative return: 0.081287
+Average Daily return: 0.000328
+Standard Deviation: 0.005798
+Sharpe Ratio: 0.898403
+
+------------------------------------
+------------EXPERIMENT 2------------
+------------------------------------
+
+------------------------------------
+Statistics for Strategy Learner
+Impact=0
+------------------------------------
+***In Sample Data***
+Cumulative return: 1.878400
+Average Daily return: 0.004238
+Standard Deviation: 0.008227
+Sharpe Ratio: 8.177201
+
+***Out of Sample Data***
+Cumulative return: 0.052500
+Average Daily return: 0.000222
+Standard Deviation: 0.006094
+Sharpe Ratio: 0.579194
+
+------------------------------------
+Statistics for Strategy Learner
+Impact = 0.005
+------------------------------------
+***In Sample Data***
+Cumulative return: 1.580935
+Average Daily return: 0.003802
+Standard Deviation: 0.008140
+Sharpe Ratio: 7.415449
+
+***Out of Sample Data***
+Cumulative return: 0.088160
+Average Daily return: 0.000350
+Standard Deviation: 0.005267
+Sharpe Ratio: 1.056232
+
+------------------------------------
+Statistics for Strategy Learner
+Impact=0.05
+------------------------------------
+***In Sample Data***
+Cumulative return: 0.675330
+Average Daily return: 0.002115
+Standard Deviation: 0.011557
+Sharpe Ratio: 2.905622
+
+***Out of Sample Data***
+Cumulative return: 0.014955
+Average Daily return: 0.000066
+Standard Deviation: 0.003576
+Sharpe Ratio: 0.290793
+
